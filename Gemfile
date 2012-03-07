@@ -6,6 +6,7 @@ gem 'rack'
 group :development  do
   # Testing libraries:
   gem 'rspec'
+  gem 'rack-test'
   
   # Guard:
   gem 'guard'
