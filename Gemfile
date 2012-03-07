@@ -2,6 +2,7 @@ source :rubygems
 
 gem 'sinatra'
 gem 'rack'
+gem 'smappy'
 
 group :development  do
   # Testing libraries:
